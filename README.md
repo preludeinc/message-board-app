@@ -3,4 +3,4 @@
 - Axios is used to GET data from the app's back-end web service (included in MessageBoardAPI repository)
 
 ### Message Board
-![image](https://github.com/user-attachments/assets/a4add819-0982-46a6-8d38-77a15058a957)
+![Message Board](https://github.com/user-attachments/assets/4fc3700b-0b46-4352-813c-5b4d5a7a048e)
